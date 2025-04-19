@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://github.com/otaviophellipe">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?color=D1C13F&lines=Ol%C3%A1%2C+eu+sou+o+Ot%C3%A1vio+Phellipe!+%F0%9F%91%8B" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D1C13F&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Ot%C3%A1vio+Phellipe!+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 </div>
 
 #
