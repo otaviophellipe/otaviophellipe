@@ -18,7 +18,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1362963008975802450/merged_1.gif?ex=68044db7&is=6802fc37&hm=2ed026788654385126aefce343b570a8e4c242cdc527d7da674d200d15b139ef&">       
+<img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">       
 </div>
  
 #
