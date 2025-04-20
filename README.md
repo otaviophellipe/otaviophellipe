@@ -1,39 +1,27 @@
-   <div align="center">
-<a href="https://github.com/otaviophellipe"><img src="https://readme-typing-svg.herokuapp.com?font=Poetsen+One&size=30&duration=2000&pause=2000&color=C7A743&width=460&height=60&lines=Ol%C3%A1%2C+eu+sou+o+Ot%C3%A1vio+Phellipe!+%F0%9F%91%8B" alt="Typing" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b80b0b&height=120&section=header"/>
+
+
+[![Apresentacao](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Otávio+Phellipe;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=b80b0b&text_color=fff&bg_color=0d1117" alt="Otavio Phellipe GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
-#
+[![Grafico GitHub](https://github-readme-activity-graph.vercel.app/graph?username=otaviophellipe&bg_color=000000&color=b80b0b&line=b80b0b&point=ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-   <a href="https://github.com/otaviophellipe">
-   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&langs_count=6&theme=onedark"/>
-</div>
-
-#
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">       
-</div>
+</div> 
  
-#
- 
-  ### Contate-me nas redes abaixo!
- 
-<div> 
-  <a href = "pro.otaviophellipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otaviophellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 
-#
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otaviophellipe}/count.svg" /></p> 
+<br></div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviophellipe/otaviophellipe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviophellipe/otaviophellipe/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/otaviophellipe/otaviophellipe/output/github-contribution-grid-snake.svg">
-</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b80b0b&height=120&section=footer"/>
