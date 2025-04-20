@@ -10,13 +10,15 @@
 
 [![Grafico GitHub](https://github-readme-activity-graph.vercel.app/graph?username=otaviophellipe&bg_color=000000&color=b80b0b&line=b80b0b&point=ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div> 
+</div>
+
+<img align="right" alt="Tavio" height="200" width="200" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">   
  
-### Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+### Linguagens Principais:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
