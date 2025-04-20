@@ -8,6 +8,7 @@
 <div>
    <a href="https://github.com/otaviophellipe">
    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">  
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 
@@ -17,8 +18,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">       
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">     
 </div>
  
 #
