@@ -23,7 +23,7 @@
  
 #
  
-  ### Você pode me contatar através das redes sociais listadas abaixo!
+  ### Contate-me nas redes abaixo!
  
 <div> 
   <a href = "pro.otaviophellipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
