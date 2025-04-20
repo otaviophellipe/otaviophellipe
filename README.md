@@ -8,7 +8,7 @@
 <div>
    <a href="https://github.com/otaviophellipe">
    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">  
+   <img align="right" alt="Tavio" height="160" width="160" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 
