@@ -8,7 +8,7 @@
 <div>
    <a href="https://github.com/otaviophellipe">
    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&langs_count=6&theme=onedark"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&langs_count=6&theme=onedark"/>
 </div>
 
 #
