@@ -27,15 +27,15 @@
   <a href="https://www.linkedin.com/in/otaviophellipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-<br><p align="center"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otaviophellipe}/count.svg" /></p> 
-<br></div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviophellipe/otaviophellipe/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviophellipe/otaviophellipe/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="Cobrinha" src="https://raw.githubusercontent.com/otaviophellipe/otaviophellipe/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+<br><p align="center"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{otaviophellipe}/count.svg" /></p> 
+<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b80b0b&height=120&section=footer"/>
