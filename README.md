@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<br><p align="center"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{otaviophellipe}/count.svg" /></p> 
 <br></div>
 
