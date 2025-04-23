@@ -4,8 +4,8 @@
 [![Apresentacao](https://readme-typing-svg.herokuapp.com/?color=ffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Otávio+Phellipe;Seja+Bem+Vindo!+:%29)](https://github.com/otaviophellipe) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otaviophellip&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=b80b0b&text_color=fff&bg_color=0d1117" alt="Otavio Phellipe GitHub Stats"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipelayout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=b80b0b&text_color=fff&bg_color=0d1117" alt="Otavio Phellipe GitHub Stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
 </div>
 
 [![Grafico GitHub](https://github-readme-activity-graph.vercel.app/graph?username=otaviophellipe&bg_color=000000&color=b80b0b&line=b80b0b&point=ffff&area=true&hide_border=true)](https://github.com/otaviophellipe)
