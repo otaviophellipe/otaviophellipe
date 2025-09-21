@@ -26,6 +26,8 @@
 
 [![Grafico GitHub](https://github-readme-activity-graph.vercel.app/graph?username=otaviophellipe&bg_color=000000&color=054f77&line=054f77&point=ffff&area=true&hide_border=true)](https://github.com/otaviophellipe)
 
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=otaviophellipe&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=otaviophellipe" alt="otaviophellipe"/> </a> </p>
+
 </div>
 
 <img align="right" alt="Tavio" height="200" width="200" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">   
