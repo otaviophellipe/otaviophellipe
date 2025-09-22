@@ -26,7 +26,7 @@
 
 [![Grafico GitHub](https://github-readme-activity-graph.vercel.app/graph?username=otaviophellipe&bg_color=000000&color=054f77&line=054f77&point=ffff&area=true&hide_border=true)](https://github.com/otaviophellipe)
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=otaviophellipe&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=otaviophellipe" alt="otaviophellipe"/> </a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=otaviophellipe&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=otaviophellipe" alt="otaviophellipe"/> </a> </p>
 
 </div>
 
