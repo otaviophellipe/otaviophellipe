@@ -6,6 +6,8 @@
 
 - 📄 Meu Portfólio está disponivel em: [https://otaviophellipe.github.io/Portfolio](https://otaviophellipe.github.io/Portfolio/)
 
+- 💼 Saiba mais sobre minhas experiências em: [http://127.0.0.1:3000/assets/curriculo.pdf](http://127.0.0.1:3000/assets/curriculo.pdf)
+
 - 🙋 Veja mais das minhas experiências! [https://www.linkedin.com/in/otaviophellipe](https://www.linkedin.com/in/otaviophellipe/)
 
 ##
