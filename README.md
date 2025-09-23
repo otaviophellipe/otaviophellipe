@@ -4,11 +4,11 @@
 
 - 👨‍💻 Graduando em **Sistemas da Informação pelo Centro Universitário UNA**
 
-- 📄 Meu Portfólio está disponivel em: [https://otaviophellipe.github.io/Portfolio](https://otaviophellipe.github.io/Portfolio/)
+- 📄 Meu Portfólio está disponivel em: [Portfólio](https://otaviophellipe.github.io/Portfolio/)
 
-- 💼 Saiba mais sobre minhas experiências em: [http://127.0.0.1:3000/assets/curriculo.pdf](http://127.0.0.1:3000/assets/curriculo.pdf)
+- 💼 Meu currículo pode ser consultado em: [Currículo](https://drive.google.com/file/d/1Xingmoor_cWlC9fFdS1b1AkrT2JAyw7x/view?usp=sharing)
 
-- 🙋 Veja mais das minhas experiências! [https://www.linkedin.com/in/otaviophellipe](https://www.linkedin.com/in/otaviophellipe/)
+- 🙋 Veja mais das minhas experiências! [LinkedIn](https://www.linkedin.com/in/otaviophellipe/)
 
 ##
 <p>  ㅤ </p>
