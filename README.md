@@ -19,20 +19,9 @@
 </div>
 <p>  ㅤ </p>
 
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otaviophellipe&show_icons=true&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=b80b0b&text_color=fff&bg_color=0d1117" alt="Otavio Phellipe GitHub Stats"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviophellipe&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=0d1117" />
-</div>
-
 [![Grafico GitHub](https://github-readme-activity-graph.vercel.app/graph?username=otaviophellipe&bg_color=000000&color=054f77&line=054f77&point=ffff&area=true&hide_border=true)](https://github.com/otaviophellipe)
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=otaviophellipe&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=otaviophellipe" alt="otaviophellipe"/> </a> </p>
-
-</div>
-
-<img align="right" alt="Tavio" height="200" width="200" src="https://cdn.discordapp.com/attachments/720833941694709800/1363197512084754452/merged.gif?ex=6805281d&is=6803d69d&hm=0b0eed2a77c6bb0debebb18e3ba3ab3b5975addb6e98fa4c2ea12c87964110d7&">   
+</div>  
 
   ### Contate-me nas redes abaixo!
  
